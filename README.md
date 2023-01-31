@@ -1,7 +1,7 @@
 # Testing practice
 
 This is an [assignment from The Odin Project](https://www.theodinproject.com/lessons/node-path-javascript-testing-practice#assignment).<br>
-It consisted of a series of small exercises which I had to solve using a [Test Driven Development](https://en.wikipedia.org/wiki/Test-driven_development) workflow, and it was my first proper introduction to test runners, Jest specifically.<br>
+It consisted of a series of small exercises which I had to solve using a [Test Driven Development](https://en.wikipedia.org/wiki/Test-driven_development) workflow, and it was my first proper introduction to test runners, [Jest](https://jestjs.io/) specifically.<br>
 
 ## Functions written:
  - `capitalize`.
